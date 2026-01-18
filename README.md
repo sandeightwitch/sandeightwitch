@@ -23,8 +23,9 @@ yes. I have two!
 
 ---
 
-_note: none of these are actually "frequently asked"... but instead are questions that should be answered! <sub>..yeah!</sub>_
+> [!NOTE]
+> _none of these are actually "frequently asked"... but instead are questions that should be answered! <sub>..yeah!</sub>_
 
 ---
 
-that's all! :-J
+that's all, thanks! :-J
