@@ -23,8 +23,11 @@ yes. I have two!
 
 ---
 
-> [!NOTE]
-> _none of these are actually "frequently asked"... but instead are questions that should be answered! <sub>..yeah!</sub>_
+<details>
+  <summary>note:</summary>
+  
+  _none of these are actually "frequently asked"... but instead are questions that I think should be answered! <sub>..yeah!</sub>_
+</details>
 
 ---
 
