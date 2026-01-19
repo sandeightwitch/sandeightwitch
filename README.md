@@ -1,11 +1,19 @@
 
 <!-- I might need to tinker with it further! -->
 
-# about
+## about
 
 hello, GitHub! :-)
 
-I'm an artist / programmer. ***(very cool, I know)***
+I'm an artist / programmer. ***<sub>(very cool, I know)</sub>***
+
+## projects
+
+at the moment of writing this, I'm working on:
+
+| status | name | summary |
+| :---   | :--- | :---        |
+| active | [sandeightwitch.github.io](https://github.com/sandeightwitch/sandeightwitch.github.io) | my personal website that will include my future projects, collaborations, blogs, and so much more. |
 
 ## FAQ
 
