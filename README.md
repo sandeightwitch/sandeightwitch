@@ -13,7 +13,7 @@ at the moment of writing this, I'm working on:
 
 | status | name | summary |
 | :---   | :--- | :---    |
-| active | [sandeightwitch.github.io](https://github.com/sandeightwitch/sandeightwitch.github.io) | my personal website that will include my future projects, collaborations, blogs, and so much more. |
+| active | [sandeightwitch.github.io](https://github.com/sandeightwitch/sandeightwitch.github.io) | my personal website that'll feature my future projects, collaborations, blogs, and a lot more. |
 
 ## FAQ
 
