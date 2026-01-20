@@ -1,5 +1,5 @@
 
-<!-- I might need to tinker with it further! -->
+<!-- almost done, I think! -->
 
 ## about
 
@@ -7,13 +7,18 @@ hello, GitHub! :-)
 
 I'm an artist / programmer. ***<sub>(very cool, I know)</sub>***
 
+---
+
 ## projects
 
-at the moment of writing this, I'm working on:
+at the moment of writing this, I'm developing:
 
-| status | name | summary |
-| :---   | :--- | :---    |
+| status | name | short description |
+| :---   | :--- | :---              |
 | active | [sandeightwitch.github.io](https://github.com/sandeightwitch/sandeightwitch.github.io) | my personal website that'll feature my future projects, collaborations, blogs, and a lot more. |
+| active | [little-builders.github.io](https://github.com/little-builders/little-builders.github.io) | an ambitious social game platform that me and my friend are actively developing. |
+
+---
 
 ## FAQ
 
@@ -29,8 +34,6 @@ well... I'm not quite sure, but definitely something ambitious!
 
 yes. I have two!
 
----
-
 <details>
   <summary>note:</summary>
   
@@ -38,5 +41,7 @@ yes. I have two!
 </details>
 
 ---
+
+## signing off
 
 that's all, thanks! :-J
