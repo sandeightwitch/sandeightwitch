@@ -15,7 +15,7 @@ at the moment of writing this, I'm developing:
 
 | status | name | short description |
 | :---   | :--- | :---              |
-| active | [sandeightwitch.github.io](https://github.com/sandeightwitch/sandeightwitch.github.io) | my personal website that'll feature my future projects, collaborations, blogs, and a lot more. |
+| paused | [sandeightwitch.github.io](https://github.com/sandeightwitch/sandeightwitch.github.io) | my personal website that'll feature my future projects, collaborations, blogs, and a lot more. |
 | active | [little-builders.github.io](https://github.com/little-builders/little-builders.github.io) | an ambitious social game platform that me and my friend are actively developing. |
 
 ---
